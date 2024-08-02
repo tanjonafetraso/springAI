@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatGPT Interface</title>
+   <link rel="stylesheet" type="text/css" href="../static/styles.css" th:href="@{/styles.css}" />
+</head>
+<body>
+	
+    <div class="chat-container">
+		<div class="chat-header">
+		           <h1>ChatGPT<br>Tutoring by TANJONA Fetrasoa<br>
+					
+				<b style="color:yellow">RAG (Pour le document PDF)</b></h1>
+				
+		       </div>
+        <div class="chat-messages" id="chat-messages"></div>
+        <div class="chat-input">
+            <input type="text" id="user-input" placeholder="Entrer votre message ici..." />
+            <button onclick="EnvoyerMessageDocumentPDF()">Envoyer</button>
+        </div>
+    </div>
+	<script th:src="@{/script.js}" src="../static/script.js"></script>
+
+</body>
+</html>

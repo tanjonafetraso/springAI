@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="dev.langchain4j.store.embedding.EmbeddingStore"/>
+    <fullyQualifiedTypeName name="org.springframework.core.io.Resource"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="dev.langchain4j.store.embedding.pgvector.PgVectorEmbeddingStore"/>
+    <fullyQualifiedTypeName name="dev.langchain4j.model.embedding.AllMiniLmL6V2EmbeddingModel"/>
+    <fullyQualifiedTypeName name="dev.langchain4j.model.openai.OpenAiChatModel"/>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDDocument"/>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.text.PDFTextStripper"/>
+    <fullyQualifiedTypeName name="com.google.common.collect.Lists"/>
+    <fullyQualifiedTypeName name="com.google.common.base.Splitter"/>
+    <fullyQualifiedTypeName name="dev.langchain4j.model.embedding.EmbeddingModel"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+    <fullyQualifiedTypeName name="dev.langchain4j.store.embedding.EmbeddingMatch"/>
+    <fullyQualifiedTypeName name="dev.langchain4j.data.segment.TextSegment"/>
+    <fullyQualifiedTypeName name="dev.langchain4j.service.AiServices"/>
+    <fullyQualifiedTypeName name="com.example.demo.SpringAICtrl.Assistant"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+</qualifiedTypeNameHistroy>
